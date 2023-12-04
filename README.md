@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# 👋 Hello! Welcome to my Github profile.
+## My name is Josias Jesus and my nickname is "JJ"!
+Olá, eu tenho 24 anos, sou apaixonado por programação.
+Atualmente trabalho como Desenvolvedor Mobile Flutter na Justa desde maio de 2022.
+Participei como Desenvolvedor Mobile Flutter, no projeto BISNEZ do Instituto Federal da Bahia(IFBA) no período de outubro de 2021 até maio de 2022.
 <!--
 **Joh-Jesus/Joh-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
