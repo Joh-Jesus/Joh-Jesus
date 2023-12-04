@@ -3,8 +3,8 @@
 
  Hello, I'm 24 years old, I'm passionate about programming.<br/>
  I currently work as a Mobile Flutter Developer at Justa since May 2022.<br/>
- I participated as a mobile flutter developer in the BISNEZ project at the Federal Institute of Bahia (IFBA) from October 2021 to May 2022.
-
+ I participated as a Mobile Developer with Flutter and Back-end with NodeJs in the BISNEZ project at the Instituto Federal da Bahia (IFBA) from October 2021 to May 2022.
+ 
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"  width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"  width="40" height="40" />
