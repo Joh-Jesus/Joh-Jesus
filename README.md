@@ -32,13 +32,14 @@
 <a href="https://www.linkedin.com/in/josias-jesus-791b1a1b6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <br/>
+<!--
 <div>
 <a href="https://github.com/Joh-Jesus">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joh-Jesus&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Joh-Jesus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-<!--
+
 **Joh-Jesus/Joh-Jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
