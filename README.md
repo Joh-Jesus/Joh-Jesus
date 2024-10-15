@@ -2,7 +2,7 @@
 ## My name is Josias Jesus and my nickname is "JJ"!
 
  Hello, I'm 24 years old, I'm passionate about programming.<br/>
- I currently work as a Mobile Flutter Developer at Justa since May 2022.<br/>
+ I currently work as a Mobile Flutter Developer at Idez Digital since October 2024.<br/>
  I participated as a Mobile Developer with Flutter and Back-end with NodeJs in the BISNEZ project at the Instituto Federal da Bahia (IFBA) from October 2021 to May 2022.
  
 ## Ferramentas e Tecnologias
